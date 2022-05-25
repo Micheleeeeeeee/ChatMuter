@@ -1,0 +1,10 @@
+name: ChatMuter
+version: '${project.version}'
+main: com.github.micheleeeeeee.chatmuter.ChatMuter
+api-version: 1.18
+authors: [ Michele ]
+description: Mute the global server's chat with one simple command!
+
+commands:
+  mutechat:
+    description: Mute/Unmute the server's chat. Bypassable with chatmuter.bypass.
